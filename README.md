@@ -1,6 +1,6 @@
 # Who will make a donation?
 
-The goal of this project is to construct a model that accurately predicts whether an individual makes more than $50,000. Individuals making more than $50k are more liekly to donate to Charity.
+The goal of this project is to construct a model that accurately predicts whether an individual makes more than $50,000. Individuals making more than $50k are more likely to donate to Charity.
 
 ## Data:
 
